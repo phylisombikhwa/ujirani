@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="drawable_layout" type="id">styles.xml</item>
+    <item name="list_selector" type="id">styles.xml</item>
+    <item name="frame_container" type="id">styles.xml</item>
+</resources>
